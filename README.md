@@ -4,5 +4,5 @@ follow the steps in the link https://angular.io/docs/ts/latest/cookbook/visual-s
 
 If you got any errors with type script as
 
-![alt tag](Angular2Demo/Images/error.jpg)
+![alt tag](https://raw.githubusercontent.com/seminda/Angular2Demo/master/Images/error.jpg)
 https://github.com/Microsoft/TypeScript/issues/4238#issuecomment-129060370
